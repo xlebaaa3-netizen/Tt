@@ -45,7 +45,7 @@ video {
 
 <div class="feed">
     <div class="video">
-        <video src="videos/1.mp4" autoplay muted loop></video>
+        <video src="videos/xiaomi12_bbk_2026-02-05-16-19-11_1770297551545.mp4" autoplay muted loop></video>
         <div class="like" onclick="like(this)">❤️</div>
     </div>
 
